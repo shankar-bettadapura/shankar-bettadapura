@@ -11,8 +11,9 @@ Former U.S. Army All-Source Intelligence Analyst. Currently focused on IT GRC, A
 | # | Project | Description | Frameworks | Date |
 |---|---|---|---|---|
 | 1 | [BitNet + TurboQuant Ablation Study — Kubo Technologies](https://github.com/shankar-bettadapura/kubo-bitnet-turboquant-ablation) | Trained a 25M parameter GPT from scratch and compared BitNet ternary quantization against TurboQuant KV cache compression on an RTX 3070 | PyTorch, nanoGPT | April 2026 |
-| 2 | [Model Risk Assessment — Kubo Technologies](https://github.com/shankar-bettadapura/model-risk-assessment-kubo) | Governance assessment of the Kubo ablation study results, evaluating production deployment readiness and documenting three critical governance gaps | NIST AI RMF 1.0, ISO/IEC 42001:2023 | April 2026 |
-| 3 | [AI Governance & Risk Assessment — NovaSphere Technologies](https://github.com/shankar-bettadapura/ai-governance-risk-assessment) | Consulting-style AI governance assessment for a fictional mid-size SaaS company covering shadow AI, adversarial robustness, bias, and vendor risk | NIST AI RMF 1.0, ISO/IEC 42001:2023 | April 2026 |
+| 2 | [AI Governance & Risk Assessment — NovaSphere Technologies](https://github.com/shankar-bettadapura/ai-governance-risk-assessment) | Consulting-style AI governance assessment for a fictional mid-size SaaS company covering shadow AI, adversarial robustness, bias, and vendor risk | NIST AI RMF 1.0, ISO/IEC 42001:2023 | April 2026 |
+| 3 | [Model Risk Assessment — Kubo Technologies](https://github.com/shankar-bettadapura/model-risk-assessment-kubo) | Governance assessment of the Kubo ablation study results, evaluating production deployment readiness and documenting three critical governance gaps | NIST AI RMF 1.0, ISO/IEC 42001:2023 | April 2026 |
+
 
 
 ---
