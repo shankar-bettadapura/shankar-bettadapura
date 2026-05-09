@@ -1,5 +1,6 @@
 # Shankar Bettadapura | Cybersecurity & AI Governance
 **M.S. Cybersecurity Studies | CompTIA Security+ | CISA (in progress) | CRISC (in progress) | ISO 42001 (in progress)**
+
 Former U.S. Army All-Source Intelligence Analyst. Currently focused on IT GRC, AI governance, and security operations.
 
 ---
@@ -15,6 +16,7 @@ Former U.S. Army All-Source Intelligence Analyst. Currently focused on IT GRC, A
 | 5 | [Threat Intelligence Aggregator](https://github.com/shankar-bettadapura/threat-intel-aggregator) | CLI tool that queries AlienVault OTX, AbuseIPDB, and URLhaus to enrich IPs, domains, URLs, and file hashes — outputting a structured HTML report with CLEAN / SUSPICIOUS / MALICIOUS verdicts | Python, MITRE ATT&CK | April 2026 |
 | 6 | [APT TTP Mapper v1.0](https://github.com/shankar-bettadapura/apt-ttp-mapper) | Python tool that extracts and maps adversary TTPs from threat intelligence reports to the MITRE ATT&CK Enterprise framework using a two-pass matching engine. Tested against CISA Advisory AA26-097A — surfaced 9 unique TTPs and identified a coverage gap between ATT&CK Enterprise and ATT&CK for ICS | Python, MITRE ATT&CK Enterprise | April 2026 |
 | 7 | [APT TTP Mapper v1.1](https://github.com/shankar-bettadapura/apt-ttp-mapper-v1.1) | Refactored v1.0 into a multi-module Python package with ATT&CK for ICS dataset support, OCR for scanned PDFs, and tactic frequency chart output. Tested against the same CISA AA26-097A — achieved 4/4 explicit T-ID coverage, up from 2/4 in v1.0 | Python, MITRE ATT&CK Enterprise, MITRE ATT&CK ICS | April 2026 |
+| 8 | [Wazuh IR Simulation — Operation Phantom Login](https://github.com/shankar-bettadapura/wazuh-ir-simulation) | Full incident response simulation using Wazuh 4.8 and Sysmon-enriched telemetry on a Windows 11 endpoint. Executed a MITRE ATT&CK-mapped kill chain with Atomic Red Team, generated 815 alerts including 22 high-severity detections, and produced a formal IR report with ATT&CK coverage map and detection gap analysis | Wazuh, MITRE ATT&CK, Sysmon, Atomic Red Team | May 2026 |
 
 ---
 
@@ -40,6 +42,7 @@ Former U.S. Army All-Source Intelligence Analyst. Currently focused on IT GRC, A
 ## Writing
 
 I write about cybersecurity, AI governance, and national security on Substack.
+
 🔗 [shankarbettadapura.substack.com](https://shankarbettadapura.substack.com)
 
 ---
